@@ -71,20 +71,19 @@
 
 **1. 遊戲主畫面**
 
-![遊戲主畫面](<img width="1035" height="612" alt="image" src="https://github.com/user-attachments/assets/ae753174-70b8-4134-a0f0-5ecbbde8854d" />
-)
+<img width="1035" height="612" alt="image" src="https://github.com/user-attachments/assets/ae753174-70b8-4134-a0f0-5ecbbde8854d" />
 
 **2. 草地、樹木與起伏山丘**
 
-![3D 場景](<img width="673" height="412" alt="image" src="https://github.com/user-attachments/assets/c0cc9e7f-b5cf-46ac-b417-235a63195e12" />
-)
+<img width="673" height="412" alt="image" src="https://github.com/user-attachments/assets/c0cc9e7f-b5cf-46ac-b417-235a63195e12" />
+
 
 
 
 **3. 收服成功與 Retry 按鈕**
 
-![收服成功](<img width="1035" height="658" alt="image" src="https://github.com/user-attachments/assets/e97e7d3e-0db6-4ed2-a1e7-62c2f9bf4df6" />
-)
+<img width="1035" height="658" alt="image" src="https://github.com/user-attachments/assets/e97e7d3e-0db6-4ed2-a1e7-62c2f9bf4df6" />
+
 
 ## 七、GitHub 與 YouTube
 
