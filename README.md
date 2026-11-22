@@ -67,7 +67,6 @@
 
 ## 六、專案截圖
 
-> 上傳實際截圖至 GitHub Repository 的 `Screenshots` 資料夾後，依檔名替換以下圖片。
 
 **1. 遊戲主畫面**
 
