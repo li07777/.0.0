@@ -71,28 +71,29 @@
 
 **1. 遊戲主畫面**
 
-![遊戲主畫面](Screenshots/01-main-scene.png)
+![遊戲主畫面](<img width="1035" height="612" alt="image" src="https://github.com/user-attachments/assets/ae753174-70b8-4134-a0f0-5ecbbde8854d" />
+)
 
 **2. 草地、樹木與起伏山丘**
 
-![3D 場景](Screenshots/02-terrain.png)
+![3D 場景](<img width="673" height="412" alt="image" src="https://github.com/user-attachments/assets/c0cc9e7f-b5cf-46ac-b417-235a63195e12" />
+)
 
-**3. 拉拉熊拋出精靈球**
 
-![拋球動畫](Screenshots/03-throw.png)
 
-**4. 粉紅色收服特效**
+**3. 收服成功與 Retry 按鈕**
 
-![收服特效](Screenshots/04-capture-effect.png)
-
-**5. 收服成功與 Retry 按鈕**
-
-![收服成功](Screenshots/05-capture-success.png)
+![收服成功](<img width="1035" height="658" alt="image" src="https://github.com/user-attachments/assets/e97e7d3e-0db6-4ed2-a1e7-62c2f9bf4df6" />
+)
 
 ## 七、GitHub 與 YouTube
 
-- **GitHub 專案連結**：`待補：實際 Repository 網址`
-- **YouTube 展示影片**：`待補：實際影片網址`
+- **GitHub 專案連結**：https://github.com/li07777/1151VR-HW5-414262404--
+
+
+- **YouTube 展示影片**：https://youtu.be/kBMy7ChovGs
+
+
 
 ## 八、學習心得
 
